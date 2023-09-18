@@ -1,0 +1,12 @@
+D:\Documents\Agencia Artilharia\Clientes\Orbits\Projetos\faanz-raffle-api\OmieNFE\bin\Debug\PixApi.dll
+D:\Documents\Agencia Artilharia\Clientes\Orbits\Projetos\faanz-raffle-api\OmieNFE\bin\Debug\PixApi.pdb
+D:\Documents\Agencia Artilharia\Clientes\Orbits\Projetos\faanz-raffle-api\OmieNFE\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Agencia Artilharia\Clientes\Orbits\Projetos\faanz-raffle-api\OmieNFE\bin\Debug\QRCoder.dll
+D:\Documents\Agencia Artilharia\Clientes\Orbits\Projetos\faanz-raffle-api\OmieNFE\bin\Debug\RestSharp.dll
+D:\Documents\Agencia Artilharia\Clientes\Orbits\Projetos\faanz-raffle-api\OmieNFE\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Agencia Artilharia\Clientes\Orbits\Projetos\faanz-raffle-api\OmieNFE\bin\Debug\RestSharp.xml
+D:\Documents\Agencia Artilharia\Clientes\Orbits\Projetos\faanz-raffle-api\OmieNFE\obj\Debug\OmieNFE.csproj.AssemblyReference.cache
+D:\Documents\Agencia Artilharia\Clientes\Orbits\Projetos\faanz-raffle-api\OmieNFE\obj\Debug\OmieNFE.csproj.CoreCompileInputs.cache
+D:\Documents\Agencia Artilharia\Clientes\Orbits\Projetos\faanz-raffle-api\OmieNFE\obj\Debug\OmieNFE.csproj.CopyComplete
+D:\Documents\Agencia Artilharia\Clientes\Orbits\Projetos\faanz-raffle-api\OmieNFE\obj\Debug\PixApi.dll
+D:\Documents\Agencia Artilharia\Clientes\Orbits\Projetos\faanz-raffle-api\OmieNFE\obj\Debug\PixApi.pdb

@@ -1,0 +1,507 @@
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\App.csproj.AssemblyReference.cache
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\App.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\App.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\testhost.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\testhost.exe
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\App.config
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\appsettings.Development.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\appsettings.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\App.exe
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\App.dll.config
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\App.deps.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\App.runtimeconfig.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\App.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\App.pdb
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\AutoMapper.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\AWSSDK.S3.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Google.Authenticator.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Humanizer.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.TeamFoundation.Common.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.VisualStudio.Services.Common.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.VisualStudio.Services.WebApi.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\QRCoder.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\RestSharp.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Xabe.FFmpeg.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Domain.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Repo.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Util.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Domain.pdb
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Repo.pdb
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\bin\Debug\net6.0\Util.pdb
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\staticwebassets.build.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\staticwebassets.development.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\scopedcss\bundle\App.styles.css
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\App.csproj.CopyComplete
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\App.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\refint\App.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\App.pdb
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\App.genruntimeconfig.cache
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\Clientes\Solar Vide\App\App\obj\Debug\net6.0\ref\App.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\testhost.exe
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\testhost.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\App.config
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\appsettings.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\appsettings.Development.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\App.exe
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\App.dll.config
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\App.deps.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\App.runtimeconfig.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\App.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\App.pdb
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\AutoMapper.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\AWSSDK.S3.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Google.Authenticator.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Humanizer.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.TeamFoundation.Common.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.VisualStudio.Services.Common.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.VisualStudio.Services.WebApi.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\QRCoder.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\RestSharp.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Xabe.FFmpeg.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Domain.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Repo.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Util.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Domain.pdb
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Repo.pdb
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\bin\Debug\net6.0\Util.pdb
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\App.csproj.AssemblyReference.cache
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\App.MvcApplicationPartsAssemblyInfo.cs
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\App.MvcApplicationPartsAssemblyInfo.cache
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\staticwebassets\msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\staticwebassets\msbuild.build.App.props
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.App.props
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.App.props
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\staticwebassets.build.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\staticwebassets.development.json
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\scopedcss\bundle\App.styles.css
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\App.csproj.CopyComplete
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\App.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\refint\App.dll
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\App.pdb
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\App.genruntimeconfig.cache
+D:\Documents\Agencia Artilharia\Clientes\Fszion\Projetos\BoilerPlate\App\App\obj\Debug\net6.0\ref\App.dll
+D:\Desktop\AeC\App\obj\Debug\net6.0\App.csproj.AssemblyReference.cache
+D:\Desktop\AeC\App\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\AeC\App\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+D:\Desktop\AeC\App\obj\Debug\net6.0\App.AssemblyInfo.cs
+D:\Desktop\AeC\App\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+D:\Desktop\AeC\App\obj\Debug\net6.0\App.MvcApplicationPartsAssemblyInfo.cs
+D:\Desktop\AeC\App\obj\Debug\net6.0\App.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\AeC\App\obj\Debug\net6.0\App.dll
+D:\Desktop\AeC\App\obj\Debug\net6.0\refint\App.dll
+D:\Desktop\AeC\App\obj\Debug\net6.0\App.pdb
+D:\Desktop\AeC\App\bin\Debug\net6.0\testhost.exe
+D:\Desktop\AeC\App\bin\Debug\net6.0\testhost.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\App.config
+D:\Desktop\AeC\App\bin\Debug\net6.0\appsettings.Development.json
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.TestPlatform.PlatformAbstractions.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\appsettings.json
+D:\Desktop\AeC\App\bin\Debug\net6.0\App.exe
+D:\Desktop\AeC\App\bin\Debug\net6.0\App.dll.config
+D:\Desktop\AeC\App\bin\Debug\net6.0\App.deps.json
+D:\Desktop\AeC\App\bin\Debug\net6.0\App.runtimeconfig.json
+D:\Desktop\AeC\App\bin\Debug\net6.0\App.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\App.pdb
+D:\Desktop\AeC\App\bin\Debug\net6.0\AutoMapper.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\AWSSDK.Core.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\AWSSDK.S3.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Google.Authenticator.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Humanizer.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.TestPlatform.CoreUtilities.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.TestPlatform.CommunicationUtilities.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.TestPlatform.CrossPlatEngine.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.TestPlatform.Utilities.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.VisualStudio.TestPlatform.Common.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.TeamFoundation.Common.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.VisualStudio.Services.Common.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.VisualStudio.Services.WebApi.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\QRCoder.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\RestSharp.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\System.Xml.XPath.XmlDocument.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Xabe.FFmpeg.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\de\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\it\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\cs\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\cs\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\de\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\de\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\de\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\es\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\es\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\es\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\fr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\fr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\it\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\it\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\it\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ja\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ja\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ko\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ko\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\pl\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\pl\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\pt-BR\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\pt-BR\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ru\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\ru\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\tr\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\tr\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\zh-Hans\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Domain.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Repo.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Util.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Domain.pdb
+D:\Desktop\AeC\App\bin\Debug\net6.0\Repo.pdb
+D:\Desktop\AeC\App\bin\Debug\net6.0\Util.pdb
+D:\Desktop\AeC\App\obj\Debug\net6.0\staticwebassets\msbuild.App.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\AeC\App\obj\Debug\net6.0\staticwebassets\msbuild.build.App.props
+D:\Desktop\AeC\App\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.App.props
+D:\Desktop\AeC\App\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.App.props
+D:\Desktop\AeC\App\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Desktop\AeC\App\obj\Debug\net6.0\staticwebassets.build.json
+D:\Desktop\AeC\App\obj\Debug\net6.0\staticwebassets.development.json
+D:\Desktop\AeC\App\obj\Debug\net6.0\scopedcss\bundle\App.styles.css
+D:\Desktop\AeC\App\obj\Debug\net6.0\App.csproj.CopyComplete
+D:\Desktop\AeC\App\obj\Debug\net6.0\App.genruntimeconfig.cache
+D:\Desktop\AeC\App\obj\Debug\net6.0\ref\App.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Brasil.Api.dll
+D:\Desktop\AeC\App\bin\Debug\net6.0\Brasil.Api.pdb

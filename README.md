@@ -11,7 +11,7 @@ Este App faz consulta de previsão do tempo de uma determinada cidade e aeroport
 
 ## Instalação
 1. Clone o Repositório:
-`git clone https://github.com/seu-usuario/seu-projeto.git`
+`git clone https://github.com/jonathanrodrigues12/AeC.git`
 
 2. Altere as variaveis de ambiente
 	2.1 [docker-compose.yml](docker-compose.yml)

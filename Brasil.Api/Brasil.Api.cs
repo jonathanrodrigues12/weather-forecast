@@ -1,6 +1,4 @@
-﻿using Brasil.Api.Models;
-using Newtonsoft.Json;
-using RestSharp;
+﻿using RestSharp;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;

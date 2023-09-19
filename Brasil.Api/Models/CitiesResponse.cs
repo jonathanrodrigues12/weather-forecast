@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Brasil.Api.Models
+﻿namespace Brasil.Api.Models
 {
     public class CitiesResponse
     {

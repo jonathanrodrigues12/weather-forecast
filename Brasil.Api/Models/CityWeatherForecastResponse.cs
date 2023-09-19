@@ -1,8 +1,4 @@
-﻿
-using System;
-using System.Collections.Generic;
-
-namespace Brasil.Api.Models
+﻿namespace Brasil.Api.Models
 {
     public class CityWeatherForecastResponse
     {

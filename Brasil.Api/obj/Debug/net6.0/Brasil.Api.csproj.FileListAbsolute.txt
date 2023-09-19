@@ -1,0 +1,12 @@
+D:\Desktop\AeC\Brasil.Api\bin\Debug\net6.0\Brasil.Api.deps.json
+D:\Desktop\AeC\Brasil.Api\bin\Debug\net6.0\Brasil.Api.dll
+D:\Desktop\AeC\Brasil.Api\bin\Debug\net6.0\Brasil.Api.pdb
+D:\Desktop\AeC\Brasil.Api\obj\Debug\net6.0\Brasil.Api.csproj.AssemblyReference.cache
+D:\Desktop\AeC\Brasil.Api\obj\Debug\net6.0\Brasil.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\AeC\Brasil.Api\obj\Debug\net6.0\Brasil.Api.AssemblyInfoInputs.cache
+D:\Desktop\AeC\Brasil.Api\obj\Debug\net6.0\Brasil.Api.AssemblyInfo.cs
+D:\Desktop\AeC\Brasil.Api\obj\Debug\net6.0\Brasil.Api.csproj.CoreCompileInputs.cache
+D:\Desktop\AeC\Brasil.Api\obj\Debug\net6.0\Brasil.Api.dll
+D:\Desktop\AeC\Brasil.Api\obj\Debug\net6.0\refint\Brasil.Api.dll
+D:\Desktop\AeC\Brasil.Api\obj\Debug\net6.0\Brasil.Api.pdb
+D:\Desktop\AeC\Brasil.Api\obj\Debug\net6.0\ref\Brasil.Api.dll

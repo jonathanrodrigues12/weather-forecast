@@ -61,1670 +61,1670 @@ namespace Repo.Migrations
                             Id = 1L,
                             AirportName = "Romeu Zema Airport",
                             City = "Araxa",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7420),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2417),
                             Deleted = false,
                             ICAO = "SBAX",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7428)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2426)
                         },
                         new
                         {
                             Id = 2L,
                             AirportName = "Piloto Osvaldo Marques Dias Airport",
                             City = "Alta Floresta",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7432),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2429),
                             Deleted = false,
                             ICAO = "SBAT",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7433)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2429)
                         },
                         new
                         {
                             Id = 3L,
                             AirportName = "Aripuanã Airport",
                             City = "Aripuana",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7434),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2431),
                             Deleted = false,
                             ICAO = "SWRP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7435)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2431)
                         },
                         new
                         {
                             Id = 4L,
                             AirportName = "Santa Maria Airport",
                             City = "Aracaju",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7436),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2432),
                             Deleted = false,
                             ICAO = "SBAR",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7436)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2432)
                         },
                         new
                         {
                             Id = 5L,
                             AirportName = "Arapiraca Airport",
                             City = "Arapiraca",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7438),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2433),
                             Deleted = false,
                             ICAO = "SNAL",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7438)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2433)
                         },
                         new
                         {
                             Id = 6L,
                             AirportName = "Araraquara Airport",
                             City = "Araracuara",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7439),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2434),
                             Deleted = false,
                             ICAO = "SBAQ",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7440)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2434)
                         },
                         new
                         {
                             Id = 7L,
                             AirportName = "Araçatuba Airport",
                             City = "Aracatuba",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7441),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2435),
                             Deleted = false,
                             ICAO = "SBAU",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7441)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2436)
                         },
                         new
                         {
                             Id = 8L,
                             AirportName = "Altamira Airport",
                             City = "Altamira",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7442),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2436),
                             Deleted = false,
                             ICAO = "SBHT",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7442)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2437)
                         },
                         new
                         {
                             Id = 9L,
                             AirportName = "Araguaína Airport",
                             City = "Araguaina",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7443),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2437),
                             Deleted = false,
                             ICAO = "SWGN",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7443)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2438)
                         },
                         new
                         {
                             Id = 10L,
                             AirportName = "Chafei Amsei Airport",
                             City = "Barretos",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7444),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2439),
                             Deleted = false,
                             ICAO = "SBBT",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7444)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2439)
                         },
                         new
                         {
                             Id = 11L,
                             AirportName = "Bauru Airport",
                             City = "Bauru",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7445),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2440),
                             Deleted = false,
                             ICAO = "SBBU",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7445)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2440)
                         },
                         new
                         {
                             Id = 12L,
                             AirportName = "Barcelos Airport",
                             City = "Barcelos",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7446),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2441),
                             Deleted = false,
                             ICAO = "SWBC",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7446)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2441)
                         },
                         new
                         {
                             Id = 13L,
                             AirportName = "Val de Cans/Júlio Cezar Ribeiro International Airport",
                             City = "Belem",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7447),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2442),
                             Deleted = false,
                             ICAO = "SBBE",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7447)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2442)
                         },
                         new
                         {
                             Id = 14L,
                             AirportName = "Bacacheri Airport",
                             City = "Curitiba",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7448),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2443),
                             Deleted = false,
                             ICAO = "SBBI",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7448)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2443)
                         },
                         new
                         {
                             Id = 15L,
                             AirportName = "Comandante Gustavo Kraemer Airport",
                             City = "Bage",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7449),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2444),
                             Deleted = false,
                             ICAO = "SBBG",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7450)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2445)
                         },
                         new
                         {
                             Id = 16L,
                             AirportName = "Estadual Arthur Siqueira Airport",
                             City = "Braganca Paulista",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7450),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2445),
                             Deleted = false,
                             ICAO = "SBBP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7451)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2446)
                         },
                         new
                         {
                             Id = 17L,
                             AirportName = "Blumenau Airport",
                             City = "BLUMENAU",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7451),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2446),
                             Deleted = false,
                             ICAO = "SSBL",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7452)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2447)
                         },
                         new
                         {
                             Id = 18L,
                             AirportName = "Porto Seguro Airport",
                             City = "Porto Seguro",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7452),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2449),
                             Deleted = false,
                             ICAO = "SBPS",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7453)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2449)
                         },
                         new
                         {
                             Id = 19L,
                             AirportName = "Barreiras Airport",
                             City = "Barreiras",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7453),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2450),
                             Deleted = false,
                             ICAO = "SNBR",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7454)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2451)
                         },
                         new
                         {
                             Id = 20L,
                             AirportName = "Presidente Juscelino Kubistschek International Airport",
                             City = "Brasilia",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7455),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2452),
                             Deleted = false,
                             ICAO = "SBBR",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7455)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2453)
                         },
                         new
                         {
                             Id = 21L,
                             AirportName = "Atlas Brasil Cantanhede Airport",
                             City = "Boa Vista",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7457),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2453),
                             Deleted = false,
                             ICAO = "SBBV",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7457)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2454)
                         },
                         new
                         {
                             Id = 22L,
                             AirportName = "Brigadeiro Camarão Airport",
                             City = "Vilhena",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7459),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2455),
                             Deleted = false,
                             ICAO = "SBVH",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7459)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2456)
                         },
                         new
                         {
                             Id = 23L,
                             AirportName = "Breves Airport",
                             City = "Breves",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7460),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2456),
                             Deleted = false,
                             ICAO = "SNVS",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7460)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2457)
                         },
                         new
                         {
                             Id = 24L,
                             AirportName = "Bonito Airport",
                             City = "Bointo",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7461),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2458),
                             Deleted = false,
                             ICAO = "SJDB",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7461)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2458)
                         },
                         new
                         {
                             Id = 25L,
                             AirportName = "Umberto Modiano Airport",
                             City = "Buzios",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7462),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2459),
                             Deleted = false,
                             ICAO = "SBBZ",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7463)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2459)
                         },
                         new
                         {
                             Id = 26L,
                             AirportName = "Cascavel Airport",
                             City = "Cascavel",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7463),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2461),
                             Deleted = false,
                             ICAO = "SBCA",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7464)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2461)
                         },
                         new
                         {
                             Id = 27L,
                             AirportName = "Carauari Airport",
                             City = "Carauari",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7464),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2462),
                             Deleted = false,
                             ICAO = "SWCA",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7465)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2462)
                         },
                         new
                         {
                             Id = 28L,
                             AirportName = "Caruaru Airport",
                             City = "Caruaru",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7466),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2463),
                             Deleted = false,
                             ICAO = "SNRU",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7466)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2463)
                         },
                         new
                         {
                             Id = 29L,
                             AirportName = "Bartolomeu Lisandro Airport",
                             City = "Campos",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7467),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2464),
                             Deleted = false,
                             ICAO = "SBCP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7467)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2464)
                         },
                         new
                         {
                             Id = 31L,
                             AirportName = "Concórdia Airport",
                             City = "Concordia",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7468),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2465),
                             Deleted = false,
                             ICAO = "SSCK",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7469)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2465)
                         },
                         new
                         {
                             Id = 32L,
                             AirportName = "Diomício Freitas Airport",
                             City = "Criciuma",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7470),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2466),
                             Deleted = false,
                             ICAO = "SBCM",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7470)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2467)
                         },
                         new
                         {
                             Id = 33L,
                             AirportName = "Cáceres Airport",
                             City = "Caceres",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7471),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2467),
                             Deleted = false,
                             ICAO = "SWKC",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7471)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2468)
                         },
                         new
                         {
                             Id = 34L,
                             AirportName = "Conceição do Araguaia Airport",
                             City = "Conceicao Do Araguaia",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7472),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2468),
                             Deleted = false,
                             ICAO = "SBAA",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7472)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2469)
                         },
                         new
                         {
                             Id = 35L,
                             AirportName = "Cabo Frio Airport",
                             City = "Cabo Frio",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7473),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2469),
                             Deleted = false,
                             ICAO = "SBCB",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7473)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2470)
                         },
                         new
                         {
                             Id = 36L,
                             AirportName = "Caçador Airport",
                             City = "Cacador",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7474),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2470),
                             Deleted = false,
                             ICAO = "SBCD",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7474)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2471)
                         },
                         new
                         {
                             Id = 37L,
                             AirportName = "Confresa Airport",
                             City = "Confresa",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7476),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2472),
                             Deleted = false,
                             ICAO = "SJHG",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7477)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2472)
                         },
                         new
                         {
                             Id = 38L,
                             AirportName = "Marechal Rondon Airport",
                             City = "Cuiaba",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7477),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2473),
                             Deleted = false,
                             ICAO = "SBCY",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7478)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2473)
                         },
                         new
                         {
                             Id = 39L,
                             AirportName = "Congonhas – Deputado Freitas Nobre Airport",
                             City = "Sao Paulo",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7479),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2474),
                             Deleted = false,
                             ICAO = "SBSP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7480)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2474)
                         },
                         new
                         {
                             Id = 40L,
                             AirportName = "Campo Grande Airport",
                             City = "Campo Grande",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7480),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2475),
                             Deleted = false,
                             ICAO = "SBCG",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7481)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2475)
                         },
                         new
                         {
                             Id = 41L,
                             AirportName = "Coari Airport",
                             City = "Coari",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7482),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2476),
                             Deleted = false,
                             ICAO = "SWKO",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7482)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2476)
                         },
                         new
                         {
                             Id = 42L,
                             AirportName = "Carajás Airport",
                             City = "Parauapebas",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7484),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2477),
                             Deleted = false,
                             ICAO = "SBCJ",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7484)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2478)
                         },
                         new
                         {
                             Id = 43L,
                             AirportName = "Brig. Lysias Augusto Rodrigues Airport",
                             City = "Carolina",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7486),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2478),
                             Deleted = false,
                             ICAO = "SBCI",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7486)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2479)
                         },
                         new
                         {
                             Id = 44L,
                             AirportName = "Nelson Ribeiro Guimarães Airport",
                             City = "Caldas Novas",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7487),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2479),
                             Deleted = false,
                             ICAO = "SBCN",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7487)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2480)
                         },
                         new
                         {
                             Id = 45L,
                             AirportName = "Corumbá International Airport",
                             City = "Corumba",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7488),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2480),
                             Deleted = false,
                             ICAO = "SBCR",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7488)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2481)
                         },
                         new
                         {
                             Id = 46L,
                             AirportName = "Santana do Araguaia Airport",
                             City = "Santana do Araguaia",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7489),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2482),
                             Deleted = false,
                             ICAO = "SNKE",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7489)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2482)
                         },
                         new
                         {
                             Id = 47L,
                             AirportName = "Tancredo Neves International Airport",
                             City = "Belo Horizonte",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7490),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2483),
                             Deleted = false,
                             ICAO = "SBCF",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7490)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2483)
                         },
                         new
                         {
                             Id = 48L,
                             AirportName = "Amarais Airport",
                             City = "Campinas",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7491),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2484),
                             Deleted = false,
                             ICAO = "SDAM",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7491)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2484)
                         },
                         new
                         {
                             Id = 49L,
                             AirportName = "Presidente João Suassuna Airport",
                             City = "Campina Grande",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7492),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2485),
                             Deleted = false,
                             ICAO = "SBKG",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7493)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2485)
                         },
                         new
                         {
                             Id = 50L,
                             AirportName = "Caravelas Airport",
                             City = "Caravelas",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7494),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2487),
                             Deleted = false,
                             ICAO = "SBCV",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7494)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2488)
                         },
                         new
                         {
                             Id = 51L,
                             AirportName = "Afonso Pena Airport",
                             City = "Curitiba",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7495),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2489),
                             Deleted = false,
                             ICAO = "SBCT",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7495)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2489)
                         },
                         new
                         {
                             Id = 52L,
                             AirportName = "Hugo Cantergiani Regional Airport",
                             City = "Caxias Do Sul",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7496),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2490),
                             Deleted = false,
                             ICAO = "SBCX",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7496)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2490)
                         },
                         new
                         {
                             Id = 53L,
                             AirportName = "Cruzeiro do Sul Airport",
                             City = "Cruzeiro do Sul",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7497),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2491),
                             Deleted = false,
                             ICAO = "SBCZ",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7497)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2491)
                         },
                         new
                         {
                             Id = 54L,
                             AirportName = "Brigadeiro Cabral Airport",
                             City = "Divinopolis",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7499),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2492),
                             Deleted = false,
                             ICAO = "SNDV",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7499)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2492)
                         },
                         new
                         {
                             Id = 55L,
                             AirportName = "Diamantino Airport",
                             City = "Diamantino",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7500),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2493),
                             Deleted = false,
                             ICAO = "SWDM",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7500)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2493)
                         },
                         new
                         {
                             Id = 56L,
                             AirportName = "Dourados Airport",
                             City = "Dourados",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7501),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2494),
                             Deleted = false,
                             ICAO = "SSDO",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7501)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2495)
                         },
                         new
                         {
                             Id = 57L,
                             AirportName = "Diamantina Airport",
                             City = "Diamantina",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7502),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2495),
                             Deleted = false,
                             ICAO = "SNDT",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7502)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2496)
                         },
                         new
                         {
                             Id = 58L,
                             AirportName = "Erechim Airport",
                             City = "Erechim",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7504),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2497),
                             Deleted = false,
                             ICAO = "SSER",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7505)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2497)
                         },
                         new
                         {
                             Id = 59L,
                             AirportName = "Eirunepé Airport",
                             City = "Eirunepe",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7505),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2498),
                             Deleted = false,
                             ICAO = "SWEI",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7506)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2499)
                         },
                         new
                         {
                             Id = 60L,
                             AirportName = "Fonte Boa Airport",
                             City = "Fonte Boa",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7507),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2501),
                             Deleted = false,
                             ICAO = "SWOB",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7507)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2501)
                         },
                         new
                         {
                             Id = 61L,
                             AirportName = "Francisco Beltrão Airport",
                             City = "Francisco Beltrao",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7508),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2503),
                             Deleted = false,
                             ICAO = "SSFB",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7509)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2504)
                         },
                         new
                         {
                             Id = 62L,
                             AirportName = "Fernando de Noronha Airport",
                             City = "Fernando Do Noronha",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7510),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2506),
                             Deleted = false,
                             ICAO = "SBFN",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7510)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2506)
                         },
                         new
                         {
                             Id = 63L,
                             AirportName = "Cangapara Airport",
                             City = "Floriano",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7511),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2508),
                             Deleted = false,
                             ICAO = "SNQG",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7512)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2508)
                         },
                         new
                         {
                             Id = 64L,
                             AirportName = "Hercílio Luz International Airport",
                             City = "Florianopolis",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7512),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2510),
                             Deleted = false,
                             ICAO = "SBFL",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7513)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2510)
                         },
                         new
                         {
                             Id = 65L,
                             AirportName = "Pinto Martins International Airport",
                             City = "Fortaleza",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7513),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2511),
                             Deleted = false,
                             ICAO = "SBFZ",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7514)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2512)
                         },
                         new
                         {
                             Id = 66L,
                             AirportName = "Franca Airport",
                             City = "Franca",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7514),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2513),
                             Deleted = false,
                             ICAO = "SIMK",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7515)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2513)
                         },
                         new
                         {
                             Id = 67L,
                             AirportName = "Santo Ângelo Airport",
                             City = "Santo Angelo",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7516),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2543),
                             Deleted = false,
                             ICAO = "SBNM",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7516)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2544)
                         },
                         new
                         {
                             Id = 68L,
                             AirportName = "Rio Galeão – Tom Jobim International Airport",
                             City = "Rio De Janeiro",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7517),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2545),
                             Deleted = false,
                             ICAO = "SBGL",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7517)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2545)
                         },
                         new
                         {
                             Id = 69L,
                             AirportName = "Guanambi Airport",
                             City = "Guanambi",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7518),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2546),
                             Deleted = false,
                             ICAO = "SNGI",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7518)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2546)
                         },
                         new
                         {
                             Id = 70L,
                             AirportName = "Tancredo Thomas de Faria Airport",
                             City = "Guarapuava",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7519),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2547),
                             Deleted = false,
                             ICAO = "SBGU",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7519)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2547)
                         },
                         new
                         {
                             Id = 71L,
                             AirportName = "Gurupi Airport",
                             City = "Gurupi",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7520),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2548),
                             Deleted = false,
                             ICAO = "SWGI",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7520)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2549)
                         },
                         new
                         {
                             Id = 72L,
                             AirportName = "Guarulhos – Governador André Franco Montoro International Airport",
                             City = "Sao Paulo",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7521),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2549),
                             Deleted = false,
                             ICAO = "SBGR",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7521)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2550)
                         },
                         new
                         {
                             Id = 73L,
                             AirportName = "Guarapari Airport",
                             City = "Guarapari",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7522),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2550),
                             Deleted = false,
                             ICAO = "SNGA",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7522)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2551)
                         },
                         new
                         {
                             Id = 74L,
                             AirportName = "Coronel Altino Machado de Oliveira Airport",
                             City = "Governador Valadares",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7523),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2553),
                             Deleted = false,
                             ICAO = "SBGV",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7524)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2553)
                         },
                         new
                         {
                             Id = 75L,
                             AirportName = "Santa Genoveva Airport",
                             City = "Goiania",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7524),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2554),
                             Deleted = false,
                             ICAO = "SBGO",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7525)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2554)
                         },
                         new
                         {
                             Id = 76L,
                             AirportName = "Humaitá Airport",
                             City = "Humaita",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7525),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2555),
                             Deleted = false,
                             ICAO = "SWHT",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7526)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2555)
                         },
                         new
                         {
                             Id = 77L,
                             AirportName = "Cataratas International Airport",
                             City = "Foz Do Iguacu",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7526),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2556),
                             Deleted = false,
                             ICAO = "SBFI",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7527)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2556)
                         },
                         new
                         {
                             Id = 78L,
                             AirportName = "Prefeito Renato Moreira Airport",
                             City = "Imperatriz",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7528),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2558),
                             Deleted = false,
                             ICAO = "SBIZ",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7529)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2559)
                         },
                         new
                         {
                             Id = 79L,
                             AirportName = "Bahia – Jorge Amado Airport",
                             City = "Ilheus",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7529),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2560),
                             Deleted = false,
                             ICAO = "SBIL",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7530)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2561)
                         },
                         new
                         {
                             Id = 80L,
                             AirportName = "Usiminas Airport",
                             City = "Ipatinga",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7559),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2561),
                             Deleted = false,
                             ICAO = "SBIP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7560)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2562)
                         },
                         new
                         {
                             Id = 81L,
                             AirportName = "Tapuruquara Airport",
                             City = "Santa Isabel do Rio Negro",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7561),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2564),
                             Deleted = false,
                             ICAO = "SWTP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7561)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2564)
                         },
                         new
                         {
                             Id = 82L,
                             AirportName = "Itaituba Airport",
                             City = "Itaituba",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7562),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2566),
                             Deleted = false,
                             ICAO = "SBIH",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7562)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2566)
                         },
                         new
                         {
                             Id = 83L,
                             AirportName = "Itaperuna Airport",
                             City = "Itaperuna",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7563),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2567),
                             Deleted = false,
                             ICAO = "SDUN",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7564)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2568)
                         },
                         new
                         {
                             Id = 84L,
                             AirportName = "Zona da Mata Regional Airport",
                             City = "Juiz de Fora",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7564),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2569),
                             Deleted = false,
                             ICAO = "SDZY",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7565)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2569)
                         },
                         new
                         {
                             Id = 85L,
                             AirportName = "Santa Terezinha Airport",
                             City = "Joacaba",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7565),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2570),
                             Deleted = false,
                             ICAO = "SSJA",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7566)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2570)
                         },
                         new
                         {
                             Id = 86L,
                             AirportName = "Francisco de Assis Airport",
                             City = "Juiz De Fora",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7566),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2571),
                             Deleted = false,
                             ICAO = "SBJF",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7567)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2572)
                         },
                         new
                         {
                             Id = 87L,
                             AirportName = "Orlando Bezerra de Menezes Airport",
                             City = "Juazeiro Do Norte",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7568),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2573),
                             Deleted = false,
                             ICAO = "SBJU",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7568)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2573)
                         },
                         new
                         {
                             Id = 88L,
                             AirportName = "Juína Airport",
                             City = "Juina",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7569),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2574),
                             Deleted = false,
                             ICAO = "SWJN",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7569)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2575)
                         },
                         new
                         {
                             Id = 89L,
                             AirportName = "Comandante Ariston Pessoa Airport",
                             City = "Jericoacoara",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7570),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2576),
                             Deleted = false,
                             ICAO = "SSVV",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7570)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2576)
                         },
                         new
                         {
                             Id = 90L,
                             AirportName = "Lauro Carneiro de Loyola Airport",
                             City = "Joinville",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7571),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2577),
                             Deleted = false,
                             ICAO = "SBJV",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7572)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2577)
                         },
                         new
                         {
                             Id = 91L,
                             AirportName = "Presidente Castro Pinto International Airport",
                             City = "Joao Pessoa",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7572),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2578),
                             Deleted = false,
                             ICAO = "SBJP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7573)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2578)
                         },
                         new
                         {
                             Id = 92L,
                             AirportName = "Ji-Paraná Airport",
                             City = "Ji-Paraná",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7574),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2579),
                             Deleted = false,
                             ICAO = "SWJI",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7574)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2579)
                         },
                         new
                         {
                             Id = 93L,
                             AirportName = "Juruena Airport",
                             City = "Juruena",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7575),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2580),
                             Deleted = false,
                             ICAO = "SWJU",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7575)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2580)
                         },
                         new
                         {
                             Id = 94L,
                             AirportName = "Bauru – Arealva Airport",
                             City = "Bauru",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7576),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2581),
                             Deleted = false,
                             ICAO = "SJTC",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7576)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2581)
                         },
                         new
                         {
                             Id = 95L,
                             AirportName = "Inácio Luís do Nascimento Airport",
                             City = "Juara",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7577),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2582),
                             Deleted = false,
                             ICAO = "SIZX",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7577)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2583)
                         },
                         new
                         {
                             Id = 96L,
                             AirportName = "Bom Jesus da Lapa Airport",
                             City = "Bom Jesus Da Lapa",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7578),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2583),
                             Deleted = false,
                             ICAO = "SBLP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7578)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2584)
                         },
                         new
                         {
                             Id = 97L,
                             AirportName = "Lábrea Airport",
                             City = "Labrea",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7579),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2586),
                             Deleted = false,
                             ICAO = "SWLB",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7580)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2586)
                         },
                         new
                         {
                             Id = 98L,
                             AirportName = "Governador José Richa Airport",
                             City = "Londrina",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7580),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2587),
                             Deleted = false,
                             ICAO = "SBLO",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7581)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2587)
                         },
                         new
                         {
                             Id = 99L,
                             AirportName = "Coronel Horácio de Mattos Airport",
                             City = "Lençóis",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7581),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2588),
                             Deleted = false,
                             ICAO = "SBLE",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7582)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2588)
                         },
                         new
                         {
                             Id = 100L,
                             AirportName = "Lins Airport",
                             City = "Lins",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7583),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2589),
                             Deleted = false,
                             ICAO = "SBLN",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7583)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2589)
                         },
                         new
                         {
                             Id = 101L,
                             AirportName = "Fazenda Colen Airport",
                             City = "Lucas do Rio Verde",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7585),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2590),
                             Deleted = false,
                             ICAO = "SWFE",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7585)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2591)
                         },
                         new
                         {
                             Id = 102L,
                             AirportName = "João Correa da Rocha Airport",
                             City = "Maraba",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7586),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2591),
                             Deleted = false,
                             ICAO = "SBMA",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7586)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2592)
                         },
                         new
                         {
                             Id = 103L,
                             AirportName = "Eduardo Gomes International Airport",
                             City = "Manaus",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7587),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2592),
                             Deleted = false,
                             ICAO = "SBEG",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7587)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2593)
                         },
                         new
                         {
                             Id = 104L,
                             AirportName = "Maués Airport",
                             City = "Maues",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7588),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2593),
                             Deleted = false,
                             ICAO = "SNZA",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7588)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2594)
                         },
                         new
                         {
                             Id = 105L,
                             AirportName = "Zumbi dos Palmares Airport",
                             City = "Maceio",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7589),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2594),
                             Deleted = false,
                             ICAO = "SBMO",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7589)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2595)
                         },
                         new
                         {
                             Id = 106L,
                             AirportName = "Monte Dourado Airport",
                             City = "Almeirim",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7590),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2596),
                             Deleted = false,
                             ICAO = "SWMW",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7590)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2596)
                         },
                         new
                         {
                             Id = 107L,
                             AirportName = "Frank Miloye Milenkowichi–Marília State Airport",
                             City = "Marília",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7591),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2597),
                             Deleted = false,
                             ICAO = "SBML",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7591)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2597)
                         },
                         new
                         {
                             Id = 108L,
                             AirportName = "Mário Ribeiro Airport",
                             City = "Montes Claros",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7592),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2599),
                             Deleted = false,
                             ICAO = "SBMK",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7593)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2599)
                         },
                         new
                         {
                             Id = 109L,
                             AirportName = "Monterey Regional Airport",
                             City = "Monte Alegre",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7593),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2600),
                             Deleted = false,
                             ICAO = "SWAM",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7594)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2600)
                         },
                         new
                         {
                             Id = 110L,
                             AirportName = "Dix-Sept Rosado Airport",
                             City = "Mossoro",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7594),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2601),
                             Deleted = false,
                             ICAO = "SNMU",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7595)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2601)
                         },
                         new
                         {
                             Id = 111L,
                             AirportName = "Mavi Gema Airport",
                             City = "Caravelas",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7595),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2602),
                             Deleted = false,
                             ICAO = "SNMU",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7596)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2603)
                         },
                         new
                         {
                             Id = 112L,
                             AirportName = "Mauá Airport",
                             City = "Maua",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7601),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2603),
                             Deleted = false,
                             ICAO = "SBMW",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7601)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2604)
                         },
                         new
                         {
                             Id = 113L,
                             AirportName = "Governador Aluízio Alves International Airport",
                             City = "Natal",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7602),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2604),
                             Deleted = false,
                             ICAO = "SBNT",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7602)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2605)
                         },
                         new
                         {
                             Id = 114L,
                             AirportName = "Ourilandia do Norte Airport",
                             City = "Ourilandia do Norte",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7603),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2606),
                             Deleted = false,
                             ICAO = "SBUA",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7603)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2607)
                         },
                         new
                         {
                             Id = 115L,
                             AirportName = "Presidente João Batista Figueiredo Airport",
                             City = "Mirai",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7604),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2607),
                             Deleted = false,
                             ICAO = "SWNZ",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7604)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2608)
                         },
                         new
                         {
                             Id = 116L,
                             AirportName = "Ministro Victor Konder International Airport",
                             City = "Navegantes",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7605),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2609),
                             Deleted = false,
                             ICAO = "SBNF",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7606)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2610)
                         },
                         new
                         {
                             Id = 117L,
                             AirportName = "Senadora Eunice Micheles Airport",
                             City = "Sao Paulo De Olivenca",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7608),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2610),
                             Deleted = false,
                             ICAO = "SBHT",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7608)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2611)
                         },
                         new
                         {
                             Id = 118L,
                             AirportName = "Oriximiná Airport",
                             City = "Oriximina",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7609),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2612),
                             Deleted = false,
                             ICAO = "SWMW",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7609)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2613)
                         },
                         new
                         {
                             Id = 119L,
                             AirportName = "North Canaan Airport",
                             City = "North Canaan",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7610),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2613),
                             Deleted = false,
                             ICAO = "SWTP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7610)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2614)
                         },
                         new
                         {
                             Id = 120L,
                             AirportName = "Osvaldo Vieira International Airport",
                             City = "Osvaldo Vieira",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7611),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2616),
                             Deleted = false,
                             ICAO = "SBTC",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7612)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2616)
                         },
                         new
                         {
                             Id = 121L,
                             AirportName = "Lauro Kurtz Airport",
                             City = "Passo Fundo",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7612),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2617),
                             Deleted = false,
                             ICAO = "SBPF",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7613)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2617)
                         },
                         new
                         {
                             Id = 122L,
                             AirportName = "Lauro Kurtz Airport",
                             City = "Passo Fundo",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7613),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2619),
                             Deleted = false,
                             ICAO = "SBPF",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7614)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2619)
                         },
                         new
                         {
                             Id = 123L,
                             AirportName = "Parnaíba-Prefeito Dr. João Silva Filho International Airport",
                             City = "Parnaiba",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7614),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2620),
                             Deleted = false,
                             ICAO = "SBPB",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7615)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2620)
                         },
                         new
                         {
                             Id = 124L,
                             AirportName = "Parintins Airport",
                             City = "Parintins",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7616),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2621),
                             Deleted = false,
                             ICAO = "SNVS",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7617)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2622)
                         },
                         new
                         {
                             Id = 125L,
                             AirportName = "Pampulha – Carlos Drummond de Andrade Airport",
                             City = "Belo Horizonte",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7617),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2623),
                             Deleted = false,
                             ICAO = "SBBH",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7618)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2624)
                         },
                         new
                         {
                             Id = 126L,
                             AirportName = "Ponta Porã International Airport",
                             City = "Ponta Pora",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7619),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2625),
                             Deleted = false,
                             ICAO = "SBPP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7619)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2625)
                         },
                         new
                         {
                             Id = 127L,
                             AirportName = "Brigadeiro Lysias Rodrigues Airport",
                             City = "Palmas",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7620),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2626),
                             Deleted = false,
                             ICAO = "SBPJ",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7620)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2626)
                         },
                         new
                         {
                             Id = 128L,
                             AirportName = "Senador Nilo Coelho Airport",
                             City = "Petrolina",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7621),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2628),
                             Deleted = false,
                             ICAO = "SNZA",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7621)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2628)
                         },
                         new
                         {
                             Id = 129L,
                             AirportName = "Patos de Minas Airport",
                             City = "Patos De Minas",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7622),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2629),
                             Deleted = false,
                             ICAO = "SNPD",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7622)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2629)
                         },
                         new
                         {
                             Id = 130L,
                             AirportName = "Senador Petronio Portella Airport",
                             City = "Picos",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7623),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2630),
                             Deleted = false,
                             ICAO = "SNPL",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7623)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2630)
                         },
                         new
                         {
                             Id = 131L,
                             AirportName = "Viracopos International Airport",
                             City = "Campinas",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7624),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2632),
                             Deleted = false,
                             ICAO = "SBDN",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7624)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2632)
                         },
                         new
                         {
                             Id = 132L,
                             AirportName = "Viracopos International Airport",
                             City = "Campinas",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7625),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2633),
                             Deleted = false,
                             ICAO = "SBDN",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7625)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2633)
                         },
                         new
                         {
                             Id = 133L,
                             AirportName = "Presidente Prudente Airport",
                             City = "Presidente Prudente",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7626),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2635),
                             Deleted = false,
                             ICAO = "SNPA",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7627)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2635)
                         },
                         new
                         {
                             Id = 134L,
                             AirportName = "Presidente Castro Pinto Airport",
                             City = "Praca",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7627),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2636),
                             Deleted = false,
                             ICAO = "SBPR",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7628)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2636)
                         },
                         new
                         {
                             Id = 135L,
                             AirportName = "São Carlos Airport",
                             City = "Sao Carlos",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7629),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2637),
                             Deleted = false,
                             ICAO = "SBNF",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7630)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2637)
                         },
                         new
                         {
                             Id = 136L,
                             AirportName = "Leite Lopes Airport",
                             City = "Ribeirao Preto",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7630),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2638),
                             Deleted = false,
                             ICAO = "SBRP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7631)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2639)
                         },
                         new
                         {
                             Id = 137L,
                             AirportName = "Raramuri Airport",
                             City = "Raramuri",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7631),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2639),
                             Deleted = false,
                             ICAO = "SNRP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7632)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2640)
                         },
                         new
                         {
                             Id = 138L,
                             AirportName = "Plácido de Castro Airport",
                             City = "Rio Branco",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7633),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2640),
                             Deleted = false,
                             ICAO = "SWRB",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7633)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2641)
                         },
                         new
                         {
                             Id = 139L,
                             AirportName = "Guararapes-Gilberto Freyre International Airport",
                             City = "Recife",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7634),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2642),
                             Deleted = false,
                             ICAO = "SBRF",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7634)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2642)
                         },
                         new
                         {
                             Id = 140L,
                             AirportName = "Santa Maria Airport",
                             City = "Santa Maria",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7635),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2643),
                             Deleted = false,
                             ICAO = "SBSM",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7635)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2643)
                         },
                         new
                         {
                             Id = 141L,
                             AirportName = "Rainforest Airport",
                             City = "Rioja",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7636),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2644),
                             Deleted = false,
                             ICAO = "SWEK",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7636)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2644)
                         },
                         new
                         {
                             Id = 142L,
                             AirportName = "Rio de Janeiro–Galeão International Airport",
                             City = "Rio De Janeiro",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7637),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2645),
                             Deleted = false,
                             ICAO = "SBGL",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7637)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2645)
                         },
                         new
                         {
                             Id = 143L,
                             AirportName = "Maestro Marinho Franco Airport",
                             City = "Rondonopolis",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7638),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2646),
                             Deleted = false,
                             ICAO = "SWTP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7638)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2646)
                         },
                         new
                         {
                             Id = 144L,
                             AirportName = "Islas Malvinas International Airport",
                             City = "Rosario",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7639),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2648),
                             Deleted = false,
                             ICAO = "SBRK",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7639)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2648)
                         },
                         new
                         {
                             Id = 145L,
                             AirportName = "Santos Dumont Airport",
                             City = "Rio De Janeiro",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7640),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2649),
                             Deleted = false,
                             ICAO = "SBRJ",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7640)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2649)
                         },
                         new
                         {
                             Id = 146L,
                             AirportName = "Marechal Cunha Machado International Airport",
                             City = "Sao Luiz",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7641),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2650),
                             Deleted = false,
                             ICAO = "SBSL",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7642)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2650)
                         },
                         new
                         {
                             Id = 147L,
                             AirportName = "Sorriso Airport",
                             City = "Sorriso",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7642),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2651),
                             Deleted = false,
                             ICAO = "SNAM",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7643)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2651)
                         },
                         new
                         {
                             Id = 148L,
                             AirportName = "Base Aérea de Santos Airport",
                             City = "Santos",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7643),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2652),
                             Deleted = false,
                             ICAO = "SBRJ",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7644)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2653)
                         },
                         new
                         {
                             Id = 149L,
                             AirportName = "Maestro Wilson Fonseca Airport",
                             City = "Santarem",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7644),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2653),
                             Deleted = false,
                             ICAO = "SBSN",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7645)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2654)
                         },
                         new
                         {
                             Id = 150L,
                             AirportName = "Santa Cruz do Xingu Airport",
                             City = "Santa Cruz Do Xingu",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7646),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2654),
                             Deleted = false,
                             ICAO = "SNTF",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7646)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2655)
                         },
                         new
                         {
                             Id = 151L,
                             AirportName = "São Félix do Xingu Airport",
                             City = "Sao Felix Do Xingu",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7647),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2655),
                             Deleted = false,
                             ICAO = "SWSI",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7647)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2656)
                         },
                         new
                         {
                             Id = 152L,
                             AirportName = "Serra do Cabral Airport",
                             City = "Sao Luiz Gonzaga",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7648),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2657),
                             Deleted = false,
                             ICAO = "SNBR",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7648)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2657)
                         },
                         new
                         {
                             Id = 153L,
                             AirportName = "Trombetas Airport",
                             City = "Trombetas",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7649),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2658),
                             Deleted = false,
                             ICAO = "SNBR",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7649)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2658)
                         },
                         new
                         {
                             Id = 154L,
                             AirportName = "Toledo Airport",
                             City = "Toledo",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7650),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2659),
                             Deleted = false,
                             ICAO = "SBTD",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7650)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2659)
                         },
                         new
                         {
                             Id = 155L,
                             AirportName = "Tucuruí Airport",
                             City = "Tucurui",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7651),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2660),
                             Deleted = false,
                             ICAO = "SBTU",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7651)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2660)
                         },
                         new
                         {
                             Id = 156L,
                             AirportName = "Mário de Almeida Franco Airport",
                             City = "Uberaba",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7652),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2661),
                             Deleted = false,
                             ICAO = "SBUR",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7652)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2662)
                         },
                         new
                         {
                             Id = 157L,
                             AirportName = "Ubatuba Airport",
                             City = "Ubatuba",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7653),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2662),
                             Deleted = false,
                             ICAO = "SDUB",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7653)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2663)
                         },
                         new
                         {
                             Id = 158L,
                             AirportName = "Ten. Cel. Aviador César Bombonato Airport",
                             City = "Uberlandia",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7654),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2663),
                             Deleted = false,
                             ICAO = "SBUL",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7654)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2664)
                         },
                         new
                         {
                             Id = 159L,
                             AirportName = "Umuarama Airport",
                             City = "Umuarama",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7655),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2665),
                             Deleted = false,
                             ICAO = "SSUM",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7656)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2665)
                         },
                         new
                         {
                             Id = 160L,
                             AirportName = "Hotel Transamérica Airport",
                             City = "Una",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7656),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2666),
                             Deleted = false,
                             ICAO = "SBTC",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7657)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2666)
                         },
                         new
                         {
                             Id = 161L,
                             AirportName = "Rubem Berta Airport",
                             City = "Uruguaiana",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7657),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2667),
                             Deleted = false,
                             ICAO = "SBUG",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7658)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2667)
                         },
                         new
                         {
                             Id = 162L,
                             AirportName = "Major Brigadeiro Trompowsky Airport",
                             City = "Varginha",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7659),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2668),
                             Deleted = false,
                             ICAO = "SBVG",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7659)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2669)
                         },
                         new
                         {
                             Id = 163L,
                             AirportName = "Valença Airport",
                             City = "Valenca",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7660),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2669),
                             Deleted = false,
                             ICAO = "SNVB",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7660)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2670)
                         },
                         new
                         {
                             Id = 164L,
                             AirportName = "Viracopos International Airport",
                             City = "Campinas",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7661),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2670),
                             Deleted = false,
                             ICAO = "SBKP",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7661)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2671)
                         },
                         new
                         {
                             Id = 165L,
                             AirportName = "Vitória da Conquista Airport",
                             City = "Vitória Da Conquista",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7662),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2671),
                             Deleted = false,
                             ICAO = "SBQV",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7662)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2672)
                         },
                         new
                         {
                             Id = 166L,
                             AirportName = "Eurico de Aguiar Salles Airport",
                             City = "Vitoria",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7663),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2673),
                             Deleted = false,
                             ICAO = "SBVT",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7663)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2673)
                         },
                         new
                         {
                             Id = 167L,
                             AirportName = "Vila Rica Airport",
                             City = "Vila Rica",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7664),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2674),
                             Deleted = false,
                             ICAO = "SWVC",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7664)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2674)
                         },
                         new
                         {
                             Id = 168L,
                             AirportName = "Serafin Enoss Bertaso Airport",
                             City = "Chapeco",
-                            CreatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7665),
+                            CreatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2676),
                             Deleted = false,
                             ICAO = "SBCH",
-                            UpdatedOn = new DateTime(2023, 9, 18, 18, 8, 28, 926, DateTimeKind.Local).AddTicks(7665)
+                            UpdatedOn = new DateTime(2023, 9, 19, 1, 10, 5, 851, DateTimeKind.Local).AddTicks(2676)
                         });
                 });
 

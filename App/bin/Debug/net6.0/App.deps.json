@@ -1619,6 +1619,9 @@
         }
       },
       "Brasil.Api/1.0.0": {
+        "dependencies": {
+          "RestSharp": "106.12.0"
+        },
         "runtime": {
           "Brasil.Api.dll": {}
         }

@@ -41,7 +41,7 @@ builder.Services.AddSwaggerGen(c => {
     });
 });
 builder.Services.AddDbContext<ContextApp>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionDB")));
-builder.Services.AddSingleton(builder.Configuration.GetSection("SettingsApp").Get<SettingsApp>());
+
 builder.Services.ConfigureAuthentication();
 builder.Services.ConfigureSession();
 

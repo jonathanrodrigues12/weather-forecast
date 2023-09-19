@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Repo", "Repo\Repo.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Domain", "Domain\Domain.csproj", "{50995F49-2B0E-4521-A703-FFA6A97A42BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brasil.Api", "Brasil.Api\Brasil.Api.csproj", "{D21A987F-F4A3-4C33-A92B-CE69CF52D30F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Brasil.Api", "Brasil.Api\Brasil.Api.csproj", "{A280CA4E-C1CE-4219-96CD-12DB1D77B3CF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,10 +35,10 @@ Global
 		{50995F49-2B0E-4521-A703-FFA6A97A42BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50995F49-2B0E-4521-A703-FFA6A97A42BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50995F49-2B0E-4521-A703-FFA6A97A42BC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D21A987F-F4A3-4C33-A92B-CE69CF52D30F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D21A987F-F4A3-4C33-A92B-CE69CF52D30F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D21A987F-F4A3-4C33-A92B-CE69CF52D30F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D21A987F-F4A3-4C33-A92B-CE69CF52D30F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A280CA4E-C1CE-4219-96CD-12DB1D77B3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A280CA4E-C1CE-4219-96CD-12DB1D77B3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A280CA4E-C1CE-4219-96CD-12DB1D77B3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A280CA4E-C1CE-4219-96CD-12DB1D77B3CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,54 +1,66 @@
-# Previsão do Tempo
+# 🌦️ Previsão do Tempo - Aplicativo .NET
 
-Este App faz consulta de previsão do tempo de uma determinada cidade e aeroporto
+**Autor:** Jonathan Rodrigues
 
-## Índice
+## 📘 Visão Geral
 
-- [Instalação](#instalação)
-- [Acesso](#Acesso)
-- [Observações](#Observações)
-- [Contato](#Contato)
+Este aplicativo em .NET permite consultar a previsão do tempo para uma cidade ou aeroporto específicos. Ele utiliza APIs externas para obter dados meteorológicos atualizados e apresenta essas informações de forma clara e acessível.
 
-## Instalação
-1. Clone o Repositório:
-`git clone https://github.com/jonathanrodrigues12/AeC.git`
+## 🚀 Funcionalidades
 
-2. Altere as variaveis de ambiente
-	2.1 [docker-compose.yml](docker-compose.yml)
-		SA_PASSWORD #para uma senha de sua prefêrencia, essa tag é responsável por criar uma senha para seu banco de dados
-		- DB_HOST=Your_Host   # nome do host atribuido para o container do SqlServer
-		- DB_PORT=Your_Port #Porta TCP
-		- DB_DATABASE=AeC #Nome da sua base dados
-		- DB_USERNAME=sa #defina um usuário
-		- DB_PASSWORD= #defina um usuário
-	2.2 [App\appsettings.json](appsettings.json)
-		Altere a string de conexão de acordo com os dados escolhidos no  [docker-compose.yml](docker-compose.yml)
-3. Builde o container
-`docker-compose up`
+- Consulta de previsão do tempo por cidade ou código de aeroporto.
+- Interface amigável para exibição das informações meteorológicas.
+- Integração com APIs confiáveis para obtenção de dados atualizados.
 
-## Acesso 
-Para Acessar a documentação Swagger 
-[http://localhost:8090/swagger/index.html](http://localhost:8090/swagger/index.html "http://localhost:8090/swagger/index.html")
+## 🛠️ Requisitos
 
-##Observações
+- [.NET SDK](https://dotnet.microsoft.com/download) instalado na máquina.
+- Docker e Docker Compose (opcional, para execução via containers).
+- Chave de API válida para o serviço de previsão do tempo utilizado.
 
-A Brasil API não fornece uma lista dos Codigos ICAO (International Civil Aviation Organization), para que seja possivel a obtenção destes códigos, criei um seed no arquivo de contexto [Repo\ContextApp.cs](ContextApp.cs), e uma rota espessifica no Controller [App\Controllers\AirportController.cs](AirportController), onde lista esses códigos obtidos no site da ANAC (Agencia de Aviação Civil)
-Outro sim, a Brasil API encontra-se com bug, visto que quando buscamos por uma localidade no endpoint [https://brasilapi.com.br/api/cptec/v1/cidade/{cityName}] Busca localidades, o inserir mais de 5 caracteres no campo cityName, a api retorna com o seguinte erro:
+## 📦 Instalação
 
+1. **Clone o repositório:**
 
-    {
-        "message": "Erro ao buscar informações sobre cidade",
-        "type": "city_error",
-        "name": "CITY_INTERNAL"
-    }
+```bash
+git clone https://github.com/jonathanrodrigues12/weather-forecast.git
+```
 
-o mesmo se encontra gravando na tabela  de logs.
-Não obtive tempo hábil necessário para implementar um teste unitários desejados no teste
-Antemão eu já agradeço oportunidade e a atenção dispensada
+2. **Configure as variáveis de ambiente:**
 
-##Contato
-Jonathan Rodrigues
-Desenvolvedor .NET Core
-Tel.: +55(15) 99630-5590
-WhatsApp.: +55(15) 99630-5590
-Linkedin: [https://www.linkedin.com/in/jonathanrodrigues12/](jonathanrodrigues12)
+Crie um arquivo `.env` na raiz do projeto com a seguinte variável:
+
+```env
+API_KEY=SuaChaveDeAPI
+```
+
+3. **Execute o aplicativo:**
+
+- Via Docker:
+
+```bash
+docker-compose up --build
+```
+
+- Ou diretamente com o .NET CLI:
+
+```bash
+dotnet run --project App
+```
+
+## 🧪 Uso
+
+Após iniciar o aplicativo, acesse `http://localhost:5000` em seu navegador. Utilize a interface para inserir o nome de uma cidade ou o código de um aeroporto e visualizar a previsão do tempo correspondente.
+
+## 📝 Observações
+
+- Certifique-se de que a chave de API fornecida seja válida e tenha permissões adequadas para acessar os dados meteorológicos.
+- O aplicativo está configurado para rodar na porta 5000 por padrão. Caso essa porta esteja em uso, ajuste as configurações conforme necessário.
+
+## 🤝 Contribuições
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests com melhorias e correções.
+
+## 📄 Licença
+
+Este projeto está licenciado sob a [Licença MIT](LICENSE).
